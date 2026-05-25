@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "SSTV 编码器入口模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SSTV 编码器主能力"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SSTV Encoder OH"
+    },
+    {
+      "name": "mode_label",
+      "value": "模式"
+    },
+    {
+      "name": "play_start",
+      "value": "开始"
+    },
+    {
+      "name": "play_stop",
+      "value": "停止"
+    },
+    {
+      "name": "play_prepare",
+      "value": "准备中"
+    },
+    {
+      "name": "scan_line_prefix",
+      "value": "扫描行"
+    },
+    {
+      "name": "choose_image",
+      "value": "选择图片"
+    },
+    {
+      "name": "sample_image",
+      "value": "示例"
+    },
+    {
+      "name": "framing_label",
+      "value": "构图"
+    },
+    {
+      "name": "rotate_left",
+      "value": "左转"
+    },
+    {
+      "name": "rotate_right",
+      "value": "右转"
+    },
+    {
+      "name": "reset_transform",
+      "value": "重置"
+    },
+    {
+      "name": "zoom_in",
+      "value": "放大"
+    },
+    {
+      "name": "zoom_out",
+      "value": "缩小"
+    },
+    {
+      "name": "pan_up",
+      "value": "上移"
+    },
+    {
+      "name": "pan_down",
+      "value": "下移"
+    },
+    {
+      "name": "pan_left",
+      "value": "左移"
+    },
+    {
+      "name": "pan_right",
+      "value": "右移"
+    },
+    {
+      "name": "export_label",
+      "value": "导出"
+    },
+    {
+      "name": "export_busy",
+      "value": "导出中..."
+    },
+    {
+      "name": "export_wave",
+      "value": "导出 WAV"
+    },
+    {
+      "name": "status_label",
+      "value": "状态"
+    },
+    {
+      "name": "about_icon",
+      "value": "i"
+    },
+    {
+      "name": "about_title",
+      "value": "关于"
+    },
+    {
+      "name": "about_back",
+      "value": "返回"
+    },
+    {
+      "name": "about_summary",
+      "value": "一个将图像编码为 SSTV 音频的 HarmonyOS 原生应用"
+    },
+    {
+      "name": "about_origin_title",
+      "value": "介绍"
+    },
+    {
+      "name": "about_origin_body",
+      "value": "由WeiguangTWK (BG7QWH) 移植自olgamiller/SSTVEncoder2"
+    },
+    {
+      "name": "about_repo_label",
+      "value": "WeiguangTWK/SSTVEncoder-OH"
+    }
+  ]
+}

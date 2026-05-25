@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\weiguangtwk\\.ohos\\config\\default_SSTV_Encoder_OpenHarmony_3WpiPouDkrvyt4OhL_XrAqtO9ZMPkXEFNokOqo3ITg8=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B88DD6F58324644FC3C3F2834351B78653D187EEE60988F230AEF6A9D342EFB7D4DCDD174AD4E53",
+          "profile": "C:\\Users\\weiguangtwk\\.ohos\\config\\default_SSTV_Encoder_OpenHarmony_3WpiPouDkrvyt4OhL_XrAqtO9ZMPkXEFNokOqo3ITg8=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\weiguangtwk\\.ohos\\config\\default_SSTV_Encoder_OpenHarmony_3WpiPouDkrvyt4OhL_XrAqtO9ZMPkXEFNokOqo3ITg8=.p12",
+          "storePassword": "0000001B05AFD51A814AF2A6DBBC68CE25051720943CDDC5682C2870A87F98DBA0A939C19AEB82CE164797"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.1.0(23)",
+        "compatibleSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "sstvencoder",
+      "srcPath": "./sstvencoder",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

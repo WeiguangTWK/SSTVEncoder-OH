@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "SSTV encoder entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SSTV encoder main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SSTV Encoder OH"
+    },
+    {
+      "name": "mode_label",
+      "value": "Mode"
+    },
+    {
+      "name": "play_start",
+      "value": "Start"
+    },
+    {
+      "name": "play_stop",
+      "value": "Stop"
+    },
+    {
+      "name": "play_prepare",
+      "value": "Preparing"
+    },
+    {
+      "name": "scan_line_prefix",
+      "value": "Scan Line"
+    },
+    {
+      "name": "choose_image",
+      "value": "Choose Image"
+    },
+    {
+      "name": "sample_image",
+      "value": "Sample"
+    },
+    {
+      "name": "framing_label",
+      "value": "Framing"
+    },
+    {
+      "name": "rotate_left",
+      "value": "Rotate Left"
+    },
+    {
+      "name": "rotate_right",
+      "value": "Rotate Right"
+    },
+    {
+      "name": "reset_transform",
+      "value": "Reset"
+    },
+    {
+      "name": "zoom_in",
+      "value": "Zoom In"
+    },
+    {
+      "name": "zoom_out",
+      "value": "Zoom Out"
+    },
+    {
+      "name": "pan_up",
+      "value": "Up"
+    },
+    {
+      "name": "pan_down",
+      "value": "Down"
+    },
+    {
+      "name": "pan_left",
+      "value": "Left"
+    },
+    {
+      "name": "pan_right",
+      "value": "Right"
+    },
+    {
+      "name": "export_label",
+      "value": "Export"
+    },
+    {
+      "name": "export_busy",
+      "value": "Exporting..."
+    },
+    {
+      "name": "export_wave",
+      "value": "Export WAV"
+    },
+    {
+      "name": "status_label",
+      "value": "Status"
+    },
+    {
+      "name": "about_icon",
+      "value": "i"
+    },
+    {
+      "name": "about_title",
+      "value": "About"
+    },
+    {
+      "name": "about_back",
+      "value": "Back"
+    },
+    {
+      "name": "about_summary",
+      "value": "A native HarmonyOS app that encodes images into SSTV audio"
+    },
+    {
+      "name": "about_origin_title",
+      "value": "Introduction"
+    },
+    {
+      "name": "about_origin_body",
+      "value": "Ported by WeiguangTWK (BG7QWH) from olgamiller/SSTVEncoder2"
+    },
+    {
+      "name": "about_repo_label",
+      "value": "WeiguangTWK/SSTVEncoder-OH"
+    }
+  ]
+}
