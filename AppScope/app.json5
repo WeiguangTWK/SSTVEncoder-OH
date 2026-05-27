@@ -1,7 +1,7 @@
 {
   "app": {
     "bundleName": "om.nhsystems.sstvencoder",
-    "vendor": "local",
+    "vendor": "NH Systems",
     "versionCode": 1,
     "versionName": "1.0.0.26w22a",
     "icon": "$media:launcher_icon",
